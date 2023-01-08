@@ -57,3 +57,7 @@ tmp.*
 
 # typescript
 *.tsbuildinfo
+
+# pier
+docker-compose.yml
+pier.conf
